@@ -1,2 +1,2 @@
 # StudioMusic
-Music Oroduction Software written in c ++
+Music Production Software written in c ++
